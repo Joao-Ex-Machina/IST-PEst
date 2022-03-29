@@ -62,11 +62,11 @@
 			\end{equation}
 			{\bfseries Propriedade 1}
 			\begin{equation}
-				P(\overline{A})=1-P(A) \eqv P(\overline{A})+P(A)=1 = \Omega 
+				P(\overline{A})=1-P(A) \eqv P(\overline{A})+P(A)=1 = P(\Omega) 
 			\end{equation}
 			{\bfseries Propriedade 2}
                           \begin{equation}
-                                  P(A)=P(A) \eqv P(A)-P(A)=0 \eqv P(\empty)=0=\overline{\Omega} 
+                                  P(A)=P(A) \eqv P(A)-P(A)=0 \eqv P(\empty)=0=P(\overline{\Omega}) 
                           \end{equation}
 			{\bfseries Propriedade 3}
                         \begin{equation}
@@ -78,15 +78,33 @@
                                   P(A\cup B)= P(A)+P(B)-P(A\cap B)
                           \end{equation}
 		\end{center}
-		\subsection{Proposição da Probabilidade Condicionada}
-		Deriva da Ideia de que se um evento B ocorreu, qual a probabilidade do evento A suceder.
-		Assim têm-se, para um evento B com P(B) > 0:
-		\begin{equation}
-			P(A|B)=\frac{P(A \cap B)}{P(B)}
-		\end{equation}
-		\subsection{Lei das Probabilidades Compostas}
-		\subsection{Lei da Probabilidade Total}
-			\subsubsection{Teorema de Bayes}
+		\subsection{Definição de Probabilidade Condicionada}
+			Pode definir-se uma probabilidade condicionada com uma simples proposição mental:
+			\begin{center}
+				\textit{"Tendo em conta que ocorreu um evento B, qual a probabilidade do evento A suceder."}
+			\end{center}
+			Assim têm-se, para um evento B com P(B) > 0:
+			\begin{equation}
+				P(A|B)=\frac{P(A \cap B)}{P(B)}
+			\end{equation}
+			\subsection{Lei das Probabilidades Compostas}
+				\begin{equation}
+                                	P(A|B) \times P(B) = P(A \cap B) = P(B|A) \times P(B)
+				\end{equation}
+	Ou para \textit{n} eventos A$_i$, tal que 0 < P(A$_i$) $\leq$ 1, $\forall$ i, i $\in$ [0, \textit{n}:] 
+				\begin{equation}
+                			ahhhhhhhhh
+                                \end{equation}
+
+
+			\subsection{Lei da Probabilidade Total}
+				Se A$_i$, $\forall$ i , i $\in$ [1, n] tal que $\forall$ i, A$_i$ $\in$ $\Omega$ $\land$ P(A$_i$)>0 então:
+				\begin{equation}
+                                          P(B)=\sum{n}{i=1}P(B|A_i)\times P(A_i), \forall B \in \Omega
+                                  \end{equation}
+
+
+				\subsubsection{Teorema de Bayes}
 
 			
 \end{document} 
