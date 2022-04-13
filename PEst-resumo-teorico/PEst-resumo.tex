@@ -13,6 +13,7 @@
 \usepackage{yfonts}
 \usepackage{amssymb}
 \usepackage{hyperref}
+\usepackage{amsmath}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -45,7 +46,7 @@
         \HRule\\[1.5cm]\
         João \textsc{Barreiros C. Rodrigues},nº 99968 , aka \textsc{Ex-Machina},\\
         \vfill\vfill\vfill % Position the date 3/4 down the remaining page
-        {\large 2$^n$$^d$ semester 2022} % Date, change the \today to a set date if you want to be precise
+        {\large 2º semestre 2022} % Date, change the \today to a set date if you want to be precise
         \vfill % Push the date up 1/4 of the remaining page
 \end{titlepage}
         \pagenumbering{arabic}
@@ -93,7 +94,7 @@
 				\end{equation}
 	Ou para \textit{n} eventos A$_i$, tal que 0 < P(A$_i$) $\leq$ 1, $\forall$ i, i $\in$ [0, \textit{n}:] 
 				\begin{equation}
-                			ahhhhhhhhh
+                			I will do this later
                                 \end{equation}
 
 
@@ -105,6 +106,97 @@
 
 
 				\subsubsection{Teorema de Bayes}
+				Se A$_i$ \in \Omega, $\forall$ i , i $\in$ [1, m] formam uma partição de \Omega tal que P(A$_i$) > 0, $\forall$ i, , i $\in$ [1, m]. Então para qualquer evento B com P(B)>0 e qualquer j $\in$ [1, m] tem-se:
+				\begin{equation}
+					P(A_j | B) =
+				\end{equation}
+				\begin{equation}
+					\frac{P(B|A_j) \times P(A_j)}{P(B)}=
+				\end{equation}
+				\begin{equation}
+					\frac{P(B|A_j) \times P(A_j)}{\sum{m}{i=1} P(B|A_i) \times P(A_i)}
+				\end{equation}
+	\cleanpage
+	\section{Variáveis Aleatórias}
+	\subsection{Axiomática Introdutória}
+		Dado (r, d, P) uma \bfseries{variável aleatória} (v, a) é uma função:\\
+		\begin{equation}
+			\begin{split}
+				& X: \Omega \longrightarrow \mathbb{R}, \omega \longrightarrow X(\omega) | \\
+				& X^{-1} ([-\infty, n]) = { \omega \in \Omega : X(\omega) \leq n } \in \mathcal{A}, \forall n \in \mathbb{R}. \\[0.5cm]
+				& Assim: \\
+			& P(X=x) : P({\omega \in \Omega : X(\omega )=n })
+			\end{split}
+		\end{equation}
+	\subsection{Função de Distribuição e Tipos de variáveis aleatórias}
+		Define-se a função de distribuição (cumulativa) de uma variável aleatória X como:
+		\begin{equation}
+			\begin{split}
+				& F_x: \mathbb{R} \longrightarrow [0,1] | \\
+				& F_x(n)=P(X^{-1} ]-\infty, n]) =P(X \leq n)	
+			\end{split}
+		\end{equation}
+		\subsubsection{Propriedades das funções de probabilidade}
+			\begin{center}
+				\bfseries{Propriedade 0}
+				\begin{equation}
+					0 \leq Fx(n) \leq 1, \forall n \in \mathbb{R}
+				\end{equation}
 
-			
-\end{document} 
+				\bfseries{Propriedade 1}
+				\begin{equation}
+					Para n_1 \leq n_2 \Longrightarrow Fx(n_0) \leq Fx(n_1) \therefore F_x \text{ é crescente}
+				\end{equation}
+
+				\bfseries{Propriedade 2}
+				\begin{equation}
+					lim_{n \rightarrow -\infty} F_x(n)=0 
+				\end{equation}
+
+				\bfseries{Propriedade 3}
+				\begin{equation}
+					lim_{n \rightarrow +\infty} F_x(n)=1 
+				\end{equation}
+
+				\bfseries{Propriedade 4}
+				\begin{equation}
+					lim_(n \rightarrow n_0^+) F_x(n) = F_x(n_0^+) \therefore F_x \text{ é contínua à direita}
+				\end{equation}
+
+				\bfseries{Propriedade 5}
+				\begin{equation}
+					P(X=n_0)= F_x(n_0) - lim_(n \rightarrow n_0^+) F_x(n) 
+				\end{equation}
+	
+				\bfseries{Propriedade 6}
+				\begin{equation}
+					F_x(n_1)-F_x(n_0), P(n_0 < X \leq n_1), forall n_0 < n_1
+				\end{equation}
+		\end{center}
+		\cleanpage
+		\subsection{Distribuições tipo de probabilidades discretas}
+			\subsubsection{Distribuição de Bernoulli}
+			\subsubsection{Distribuição binomial }
+			\subsubsection{Distribuição geométrica }
+			\subsubsection{Distribuição de Poisson}
+		\subsection{Distribuições tipo de probabilidades contínuas}
+			\subsubsection{Distribuição de uniforme}
+                        \subsubsection{Distribuição exponencial}
+                        \subsubsection{Distribuição normal}
+		\cleanpage
+		\subsection{Pares Aletórios}
+			\subsubsection{Definição}
+			\subsubsection{Distribuições Marginais}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+

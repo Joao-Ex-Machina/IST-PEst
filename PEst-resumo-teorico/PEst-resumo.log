@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.21)  25 MAR 2022 21:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.21)  13 APR 2022 18:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -983,7 +983,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip65
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+Package hyperref Info: Option `colorlinks' set `true' on input line 24.
 
 (/usr/share/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
@@ -1012,35 +1012,35 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 (./PEst-resumo.aux)
 \openout1 = `PEst-resumo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 36.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 3
-5.
+6.
  (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1105,7 +1105,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 35.
+Package hyperref Info: Link coloring ON on input line 36.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1118,28 +1118,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count324
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 
 (./PEst-resumo.out) (./PEst-resumo.out)
 \@outlinefile=\write4
 \openout4 = `PEst-resumo.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+ [1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./PEst-resumo.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./PEst-resumo.toc)
+))
 \tf@toc=\write5
 \openout5 = `PEst-resumo.toc'.
 
@@ -1153,11 +1152,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 61.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 62.
 
  (/usr/share/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 				Se A$_i$ \in
+                       \Omega, $\forall$ i , i $\in$ [1, m] formam uma parti...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 				Se A$_i$ \in \Omega, $\forall
+                                       $ i , i $\in$ [1, m] formam uma parti...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 ...n$ [1, m] formam uma partição de \Omega
+                                                   tal que P(A$_i$) > 0, $\f...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 ...am uma partição de \Omega tal que P(A$_
+                                                  i$) > 0, $\forall$ i, , i ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 29.54742pt, for example:
@@ -1168,41 +1199,74 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-] (./PEst-resumo.aux)
+]
+! Undefined control sequence.
+l.119 	\cleanpage
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.61858pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.61858pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.61858pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.61858pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.61858pt}.
+
+[4] (./PEst-resumo.aux)
 Package rerunfilecheck Info: File `PEst-resumo.out' has not changed.
-(rerunfilecheck)             Checksum: A7B367E84230CF61280175E3A16B9678;1457.
+(rerunfilecheck)             Checksum: 5743D379F3734A6D5F14C5F79FB96B2A;4874.
  ) 
 Here is how much of TeX's memory you used:
- 24242 strings out of 478276
- 443189 string characters out of 5853013
- 694714 words of memory out of 5000000
- 42020 multiletter control sequences out of 15000+600000
- 488803 words of font info for 76 fonts, out of 8000000 for 9000
+ 24284 strings out of 478276
+ 443850 string characters out of 5853013
+ 697714 words of memory out of 5000000
+ 42029 multiletter control sequences out of 15000+600000
+ 488102 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,89p,466b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,19n,89p,466b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/t
 exmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1
-/public/amsfonts/euler/eufm10.pfb></usr/share/texmf-dist/fonts/type1/public/ams
-fonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfb
-x1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr
-/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-di
-st/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/
-public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super
-/sfcc1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb><
-/usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/share/texm
-f-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-s
-uper/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1200.p
-fb>
-Output written on ./PEst-resumo.pdf (3 pages, 247884 bytes).
+/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+euler/eufm10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msa
+m10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><
+/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texm
+f-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-s
+uper/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2488.p
+fb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/
+texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf-dist/font
+s/type1/public/cm-super/sfcc2074.pfb></usr/share/texmf-dist/fonts/type1/public/
+cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm14
+40.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on ./PEst-resumo.pdf (5 pages, 290439 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
